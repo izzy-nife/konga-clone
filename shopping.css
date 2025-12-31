@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.white {
+    background-color: whitesmoke;
+    height: 30vh;
+    width: 30vw;
+    border-radius: 5px ;    
+}
+nav div .white div{
+    display: flex;
+align-items: center;
+justify-content: center;
+}

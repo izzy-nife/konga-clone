@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.beta {
+    border-color: #d63384;
+    color: #d63384;
+}
+.bord{
+    border-radius: 40px;
+}
